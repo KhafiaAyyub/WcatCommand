@@ -1,6 +1,7 @@
+
 let fs = require("fs")
 let helpObj = require('./help');
-
+//input
 let inputArr = process.argv.slice(2);
 //console.log(inputArr);
 if(inputArr[0]=="help"){
