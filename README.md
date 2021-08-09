@@ -3,13 +3,14 @@
 It is used to display or make a copy content of one or more files in the terminal as well as we copy the files content in another files . 
 
 - **General Syntax:**
-node wcat.js [options] [filepaths]
 
-option to remove big line break (-s)
+->node wcat.js [options] [filepaths]
 
-option to add line number to non empty lines (-b)
+->option to remove big line break (-s)
 
-option to add line numbers to all lines (-n) 
+->option to add line number to non empty lines (-b)
+
+->option to add line numbers to all lines (-n) 
 
 
 - **Commands:**
